@@ -5,6 +5,5 @@ compatibility_date = "2026-10-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "longroom"
-# Replace with the id printed by: npx wrangler d1 create longroom
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "16f7cfeb-406f-486e-90b0-005d171f4628"
 migrations_dir = "migrations"
